@@ -28,7 +28,8 @@ Link to download [data](https://drive.google.com/file/d/1_KBfSNzvxCZ-HwiOASQhlFe
 To train and test the experiments on the Mamem and Bcicha datasets, run this command:
 
 ```train and test
-python mAtt_<which_dataset>.py
+python GDLNet_mamem.py
+python GDLNet_baicha.py
 ```
 All default hyperparameters are already set in files. 'which_dataset' can be chosen as 'mamem' (MAMEM-SSVEP-II), or 'bcicha' (BCI-ERN).
 
