@@ -25,7 +25,7 @@ Link to download [data](https://drive.google.com/file/d/1_KBfSNzvxCZ-HwiOASQhlFe
 
 ## Training and testing
 
-To train and test the mAtt in the paper, run this command:
+To train and test the experiments on the Mamem and Bcicha datasets, run this command:
 
 ```train and test
 python mAtt_<which_dataset>.py
