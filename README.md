@@ -9,7 +9,7 @@ If you have any problems, please don't hesitate to contact me.
 #### Step 1:
 To install requirements:
 ```setup
-conda env create -f GDLNet.yaml
+conda env create -f GDLNet.yml
 conda activate GDLNet
 ```
 #### Step 2:
