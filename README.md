@@ -1,7 +1,7 @@
 # README
-This repository is the official implementation of " ". 
+This repository is the official implementation of "A Grassmannian Manifold Self-Attention Network for Signal Classification". 
 
-For more details of MAtt, please refer to our paper: ' '.
+For more details of GDLNet, please refer to our paper: '[GDLNet](https://drive.google.com/file/d/1_KBfSNzvxCZ-HwiOASQhlFe8wwsq4vHt/view?usp=sharing)'.
 
 ## Requirements
 #### Step 1:
