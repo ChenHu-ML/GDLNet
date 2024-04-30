@@ -1,21 +1,19 @@
 # README
-This repository is the official implementation of "A Grassmannian Manifold Self-Attention Network for Signal Classification". 
-
-For more details of GDLNet, please refer to our paper: '[GDLNet]()'.
+This repository is the official code for our IJCAI 2024 paper: "A Grassmannian Manifold Self-Attention Network for Signal Classification". [GDLNet]()
 
 If you have any problems, please don't hesitate to contact me.
 
 ## Requirements
-#### Step 1:
-To install requirements:
+
+To install necessary dependencies by conda, run the following command:
 ```setup
 conda env create -f GDLNet.yml
 conda activate GDLNet
 ```
-#### Step 2:
-Download datasets and unzip them to the folder 'data'.
 
 ## Dataset
+Please download the datasets and put them in the folder 'data'.
+
 1. MAMEM-SSVEP-II:
    https://www.mamem.eu/results/datasets/
 2. BCI-ERN:
@@ -33,6 +31,7 @@ python GDLNet_baicha.py
 ```
 All default hyperparameters are already set in files.
 
+## AcKnowledge
 
 
 ## Reference
