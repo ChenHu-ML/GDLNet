@@ -3,12 +3,14 @@ This repository is the official implementation of "A Grassmannian Manifold Self-
 
 For more details of GDLNet, please refer to our paper: '[GDLNet](https://drive.google.com/file/d/1_KBfSNzvxCZ-HwiOASQhlFe8wwsq4vHt/view?usp=sharing)'.
 
+If you have any problems, please don't hesitate to contact me.
+
 ## Requirements
 #### Step 1:
 To install requirements:
 ```setup
-conda env create -f /path/to/mAtt_env.yml
-conda activate mAtt_env
+conda env create -f GDLNet.yaml
+conda activate GDLNet
 ```
 #### Step 2:
 Download datasets and unzip them to the folder 'data'.
