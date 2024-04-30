@@ -29,10 +29,6 @@ To train and test the experiments on the Mamem and Bcicha datasets, run this com
 python GDLNet_mamem.py
 python GDLNet_baicha.py
 ```
-All default hyperparameters are already set in files.
-
-## AcKnowledge
-
 
 ## Reference
 ```bash
