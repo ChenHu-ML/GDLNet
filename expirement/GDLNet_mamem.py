@@ -31,10 +31,9 @@ if __name__ == '__main__':
     ap.add_argument('--data_path', type=str, default='../data/MAMEM/', help='data path')
     ap.add_argument('--seed', type=int, default=3407, help='Specify the random seed for reproducibility')
     args = vars(ap.parse_args())
-
+    
     print(f'subject{args["sub"]}')
-
-    torch.manual_seed(3407)
+    
     trainloader, validloader, testloader = getAllDataloader(subject=args['sub'], data_path=args['data_path'],
                                                             bs=args['bs'])
 
