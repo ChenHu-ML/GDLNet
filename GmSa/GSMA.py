@@ -1,3 +1,10 @@
+"""
+    Author: Chen Hu
+    Official Implementation of the GDLNet
+"""
+
+
+
 from .grassmann import *
 
 
