@@ -41,6 +41,8 @@ python GDLNet_baicha.py
   year={2022}
 }
 ```
+
+```bash
 @inproceedings{wang2024grassmannian,
   title={A Grassmannian Manifold Self-Attention Network for Signal Classification},
   author={Wang, Rui and Hu, Chen and Chen, Ziheng and Wu, Xiao-Jun and Song, Xiaoning},
