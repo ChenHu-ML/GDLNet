@@ -19,7 +19,7 @@ Please download the datasets and put them in the folder 'data'.
 2. BCI-ERN:
     https://www.kaggle.com/competitions/inria-bci-challenge/data
 
-Link to download [data](https://drive.google.com/file/d/1_KBfSNzvxCZ-HwiOASQhlFe8wwsq4vHt/view?usp=sharing)
+Link to download [data](https://drive.google.com/file/d/1RxN2PWOkYJw-NzyM0vaxdLkina2q-_Rj/view?usp=sharing)
 
 ## Training and testing
 
