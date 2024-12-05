@@ -32,10 +32,10 @@ python GDLNet_baicha.py
 
 ## Reference
 ```bash
-@article{pan2022matt,
+@inproceedings{pan2022matt,
   title={MAtt: a manifold attention network for EEG decoding},
   author={Pan, Yue-Ting and Chou, Jing-Lun and Wei, Chun-Shu},
-  journal={Advances in Neural Information Processing Systems},
+  booktitle={Advances in Neural Information Processing Systems},
   volume={35},
   pages={31116--31129},
   year={2022}
