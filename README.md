@@ -1,5 +1,5 @@
 # README
-This repository is the official code for our IJCAI 2024 paper: "A Grassmannian Manifold Self-Attention Network for Signal Classification". [GDLNet]([https://www.ijcai.org/proceedings/2024/0564.pdf](https://www.ijcai.org/proceedings/2025/0598.pdf))
+This repository is the official code for our IJCAI 2024 paper: "A Grassmannian Manifold Self-Attention Network for Signal Classification". [GDLNet]([https://www.ijcai.org/proceedings/2024/0564.pdf])
 
 If you have any problems, please don't hesitate to contact me.
 
@@ -40,6 +40,16 @@ python GDLNet_baicha.py
   booktitle={Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence},
   pages={5099--5107},
   year={2024}
+}
+
+```bash
+@inproceedings{pan2022matt,
+  title={MAtt: a manifold attention network for EEG decoding},
+  author={Pan, Yue-Ting and Chou, Jing-Lun and Wei, Chun-Shu},
+  booktitle={Advances in Neural Information Processing Systems},
+  volume={35},
+  pages={31116--31129},
+  year={2022}
 }
 
 ```bash
