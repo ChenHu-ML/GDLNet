@@ -55,7 +55,7 @@ python GDLNet_baicha.py
 ```
 
 ```bash
-@inproceedings{ijcai2025hu,
+@inproceedings{hu2025ijcai,
   title     = {A Correlation Manifold Self-Attention Network for EEG Decoding},
   author    = {Hu, Chen and Wang, Rui and Song, Xiaoning and Zhou, Tao and Wu, Xiao-Jun and Sebe, Nicu and Chen, Ziheng},
   booktitle = {Proceedings of the Thirty-Fourth International Joint Conference on
