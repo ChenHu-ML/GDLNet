@@ -41,6 +41,7 @@ python GDLNet_baicha.py
   pages={5099--5107},
   year={2024}
 }
+```
 
 ```bash
 @inproceedings{pan2022matt,
@@ -51,9 +52,10 @@ python GDLNet_baicha.py
   pages={31116--31129},
   year={2022}
 }
+```
 
 ```bash
-@inproceedings{ijcai2025p598,
+@inproceedings{ijcai2025hu,
   title     = {A Correlation Manifold Self-Attention Network for EEG Decoding},
   author    = {Hu, Chen and Wang, Rui and Song, Xiaoning and Zhou, Tao and Wu, Xiao-Jun and Sebe, Nicu and Chen, Ziheng},
   booktitle = {Proceedings of the Thirty-Fourth International Joint Conference on
@@ -61,7 +63,5 @@ python GDLNet_baicha.py
   pages     = {5372--5380},
   year      = {2025},
 }
-```
-
 ```
 
